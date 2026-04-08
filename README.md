@@ -42,7 +42,7 @@ The goal is to group customers based on their purchasing behavior and provide ac
 
 
 ## How to Run
-bash
+
 pip install -r requirements.txt
 
 Open the notebook and run all cells.

@@ -12,10 +12,10 @@ The goal is to group customers based on their purchasing behavior and provide ac
 5. Interpretation of clusters into business segments
 
 ## Customer Segments
-*VIP Customers**: Highly active and high spending
-*High Value Customers**: High spending but less frequent
-*Regular Customers**: Medium behavior
-*Lost Customers**: Low engagement and inactive
+VIP Customers: Highly active and high spending
+High Value Customers: High spending customers with moderate purchase frequency
+Regular Customers: Medium behavior
+Lost Customers: Low engagement and inactive
 
 ## Key Insights
 * VIP customers generate the highest revenue and should be retained with loyalty programs
@@ -50,6 +50,8 @@ Open the notebook and run all cells.
 ## Dataset
 The dataset used in this project can be downloaded from Kaggle:
 https://www.kaggle.com/datasets/hellbuoy/online-retail-customer-clustering
+
+## This project demonstrates how data-driven customer segmentation can support targeted marketing strategies, improve retention, and increase revenue.
 
 ## Author
 Mouna Al-Nasser
